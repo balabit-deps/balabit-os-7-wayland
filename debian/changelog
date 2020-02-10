@@ -1,3 +1,9 @@
+wayland (1.16.0-1ubuntu1.1~18.04.3) bionic-security; urgency=medium
+
+  * No change rebuild for the -security pocket.
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Sat, 01 Feb 2020 11:52:32 -0500
+
 wayland (1.16.0-1ubuntu1.1~18.04.1) bionic; urgency=medium
 
   * Backport for 18.04.2 HWE stack update. (LP: #1798597)
